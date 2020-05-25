@@ -1,0 +1,12 @@
+Reports:
+ID done
+Date of report
+Location ??
+Date of Hazard Spotted
+Hazard Type
+Description done
+Status ??
+User Details (Username, Email, Name?)
+Optional - Phone Number
+Upvote Counter ??
+Title done
