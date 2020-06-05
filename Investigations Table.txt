@@ -1,0 +1,9 @@
+Investigations table:
+1) investigation id
+2) ivestigator id
+3) report id
+4) investigator username
+5) email
+6) investigator number
+7) date of action (date when report was created?)
+8) investigation description (when the report is going to be closed?)

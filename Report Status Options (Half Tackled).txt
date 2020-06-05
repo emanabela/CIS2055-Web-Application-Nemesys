@@ -1,0 +1,18 @@
+investigaitons:
+open
+closed
+being investigated
+no action required
+
+
+-------------------------------------
+Items left:
+1.Create investigation model (ok)
+2.Create investigation sqloption (like report) (ok)
+3.Create controller for investigations (ok)
+4.Add a page that is loaded when the investigator stars the investigation in the reports, so that he can handle
+	data mentioned in the table.
+5.Add page for ivestigators
+	5a.Check whether ivestigator signed in == investigator who opened the activity
+	5b.Option to close the investigation
+6.Add Status in Report View List and filter function
